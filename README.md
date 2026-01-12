@@ -54,8 +54,10 @@ User alerted and SOS triggered if needed.
 ---
 
 ## 🚀 Project Status
-This repository documents the project concept and prototype.  
-Backend services and AI models are planned for the next development phase.
+The frontend and backend prototypes have been developed and are working perfectly individually. 
+The project demonstrates all main features, including cab route monitoring, crowd density visualization, and safety alerts. 
+The next step is to connect the frontend to the backend APIs, which is planned and straightforward.
+
 
 ---
 
